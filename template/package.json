@@ -17,7 +17,7 @@
     "author": "ZAFE",
     "license": "MIT",
     "devDependencies": {
-        "@za-build/project-vue": "^1.4.8"
+        "@za-build/project-vue": "^1.5.2"
     },
     "dependencies": {
         "vue": "2.5.21",
