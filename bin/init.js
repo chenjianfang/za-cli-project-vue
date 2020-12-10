@@ -54,7 +54,7 @@ inquirer
         shell.cd(projectFolder);
         shell.exec('mkdir dist');
 
-        console.log(chalk.blue(`---------------------------------祝你开发vue愉快---------------------------------------\n`));
+        console.log(chalk.blue(`----------------------祝你开发vue愉快----------------------\n`));
         console.log(chalk.blue(`cd ${name} \n`));
         console.log(chalk.blue(`npm install \n`));
         console.log(chalk.blue('npx za-dev-vue\n'));
